@@ -1,4 +1,4 @@
-What I have done in this assignment:
+What I have done in this project:
 
     1. Boot up the UDP sockets in Main Server and the backend serevrs. Boot up the TCP sockets. Establish the TCP connections between the Clients and Main Server.
     2. Main Server receives the requests from the client through connected TCP sockets. The Main Server processes the requests, then it sends and retrives messages from the backend servers through UDP sockets. Main Server computes the operation and sends it to the client. The detailed three kinds of requests and the precesses are as followed.
